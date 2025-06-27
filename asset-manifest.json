@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/villa-happy-site/static/css/main.f081af45.css",
-    "main.js": "/villa-happy-site/static/js/main.68e5797e.js",
+    "main.css": "/villa-happy-site/static/css/main.11bb0547.css",
+    "main.js": "/villa-happy-site/static/js/main.e9e1628d.js",
     "static/js/453.1aa19305.chunk.js": "/villa-happy-site/static/js/453.1aa19305.chunk.js",
+    "static/media/area_externa.png": "/villa-happy-site/static/media/area_externa.e2385d1ef1343f77bd69.png",
+    "static/media/crianca_uniforme.png": "/villa-happy-site/static/media/crianca_uniforme.e2385d1ef1343f77bd69.png",
+    "static/media/crianca_yoga.png": "/villa-happy-site/static/media/crianca_yoga.e2385d1ef1343f77bd69.png",
+    "static/media/criancas_brincando.png": "/villa-happy-site/static/media/criancas_brincando.e2385d1ef1343f77bd69.png",
+    "static/media/escola_exterior.png": "/villa-happy-site/static/media/escola_exterior.e2385d1ef1343f77bd69.png",
+    "static/media/sala_aula.png": "/villa-happy-site/static/media/sala_aula.e2385d1ef1343f77bd69.png",
     "static/media/logo_villa_happy.png": "/villa-happy-site/static/media/logo_villa_happy.b0166986b6dcf269970b.png",
     "index.html": "/villa-happy-site/index.html",
-    "main.f081af45.css.map": "/villa-happy-site/static/css/main.f081af45.css.map",
-    "main.68e5797e.js.map": "/villa-happy-site/static/js/main.68e5797e.js.map",
+    "main.11bb0547.css.map": "/villa-happy-site/static/css/main.11bb0547.css.map",
+    "main.e9e1628d.js.map": "/villa-happy-site/static/js/main.e9e1628d.js.map",
     "453.1aa19305.chunk.js.map": "/villa-happy-site/static/js/453.1aa19305.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f081af45.css",
-    "static/js/main.68e5797e.js"
+    "static/css/main.11bb0547.css",
+    "static/js/main.e9e1628d.js"
   ]
 }
