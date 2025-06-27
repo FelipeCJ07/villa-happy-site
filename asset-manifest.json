@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/villa-happy-site/static/css/main.f081af45.css",
-    "main.js": "/villa-happy-site/static/js/main.2fe66b36.js",
-    "static/js/453.069bcc69.chunk.js": "/villa-happy-site/static/js/453.069bcc69.chunk.js",
+    "main.js": "/villa-happy-site/static/js/main.68e5797e.js",
+    "static/js/453.1aa19305.chunk.js": "/villa-happy-site/static/js/453.1aa19305.chunk.js",
     "static/media/logo_villa_happy.png": "/villa-happy-site/static/media/logo_villa_happy.b0166986b6dcf269970b.png",
     "index.html": "/villa-happy-site/index.html",
     "main.f081af45.css.map": "/villa-happy-site/static/css/main.f081af45.css.map",
-    "main.2fe66b36.js.map": "/villa-happy-site/static/js/main.2fe66b36.js.map",
-    "453.069bcc69.chunk.js.map": "/villa-happy-site/static/js/453.069bcc69.chunk.js.map"
+    "main.68e5797e.js.map": "/villa-happy-site/static/js/main.68e5797e.js.map",
+    "453.1aa19305.chunk.js.map": "/villa-happy-site/static/js/453.1aa19305.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f081af45.css",
-    "static/js/main.2fe66b36.js"
+    "static/js/main.68e5797e.js"
   ]
 }
