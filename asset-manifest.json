@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/villa-happy-site/static/css/main.53979617.css",
-    "main.js": "/villa-happy-site/static/js/main.ccc4e696.js",
+    "main.js": "/villa-happy-site/static/js/main.c98af875.js",
     "static/js/453.1aa19305.chunk.js": "/villa-happy-site/static/js/453.1aa19305.chunk.js",
     "static/media/area_externa.png": "/villa-happy-site/static/media/area_externa.e2385d1ef1343f77bd69.png",
     "static/media/crianca_uniforme.png": "/villa-happy-site/static/media/crianca_uniforme.e2385d1ef1343f77bd69.png",
@@ -13,11 +13,11 @@
     "static/media/sistema_mackenzie.png": "/villa-happy-site/static/media/sistema_mackenzie.8d0223f854a2018c78e2.png",
     "index.html": "/villa-happy-site/index.html",
     "main.53979617.css.map": "/villa-happy-site/static/css/main.53979617.css.map",
-    "main.ccc4e696.js.map": "/villa-happy-site/static/js/main.ccc4e696.js.map",
+    "main.c98af875.js.map": "/villa-happy-site/static/js/main.c98af875.js.map",
     "453.1aa19305.chunk.js.map": "/villa-happy-site/static/js/453.1aa19305.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53979617.css",
-    "static/js/main.ccc4e696.js"
+    "static/js/main.c98af875.js"
   ]
 }
